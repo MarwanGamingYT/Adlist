@@ -1,0 +1,2 @@
+0.0.0.0  fwtracks.freshmarketer.com
+0.0.0.0  widgets.pinterest.com
