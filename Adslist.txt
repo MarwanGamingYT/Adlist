@@ -1,4 +1,7 @@
-https://v.firebog.net/hosts/Prigent-Adult.txt
+https://v.firebog.net/hosts/lists.php?type=tick
+https://v.firebog.net/hosts/lists.php?type=nocross
+https://v.firebog.net/hosts/lists.php?type=adult
+https://v.firebog.net/hosts/lists.php?type=all
 
 0.0.0.0  fwtracks.freshmarketer.com
 0.0.0.0  widgets.pinterest.com
