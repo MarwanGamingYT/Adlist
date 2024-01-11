@@ -1,3 +1,4 @@
 0.0.0.0  fwtracks.freshmarketer.com
 0.0.0.0  widgets.pinterest.com
 0.0.0.0  realtime.luckyorange.com
+0.0.0.0  iq.opensooq.com
