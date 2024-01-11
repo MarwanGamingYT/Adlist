@@ -1,3 +1,5 @@
+https://v.firebog.net/hosts/Prigent-Adult.txt
+
 0.0.0.0  fwtracks.freshmarketer.com
 0.0.0.0  widgets.pinterest.com
 0.0.0.0  realtime.luckyorange.com
