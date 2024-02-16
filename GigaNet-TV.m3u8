@@ -1,0 +1,195 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="GNTV SPORTS 1HD" channel-id="1" tvg-logo="http://tvapi.giganet.iq/gntv/sport01.png",GNTV SPORTS 1HD
+http://stream.giganet.iq:6066/sport/ch1/adaptive.m3u8
+#EXTINF:-1 tvg-name="GNTV SPORTS 2HD" channel-id="2" tvg-logo="http://tvapi.giganet.iq/gntv/sport02.png",GNTV SPORTS 2HD
+http://stream.giganet.iq:6066/sport/ch2/adaptive.m3u8
+#EXTINF:-1 tvg-name="GNTV SPORTS 3HD" channel-id="3" tvg-logo="http://tvapi.giganet.iq/gntv/sport03.png",GNTV SPORTS 3HD
+http://stream.giganet.iq:6066/sport/ch3/adaptive.m3u8
+#EXTINF:-1 tvg-name="GNTV SPORTS 4HD" channel-id="4" tvg-logo="http://tvapi.giganet.iq/gntv/sport04.png",GNTV SPORTS 4HD
+http://stream.giganet.iq:6066/sport/ch4/adaptive.m3u8
+#EXTINF:-1 tvg-name="GNTV SPORTS 5HD" channel-id="5" tvg-logo="http://tvapi.giganet.iq/gntv/sport05.png",GNTV SPORTS 5HD
+http://stream.giganet.iq:6066/sport/ch5/adaptive.m3u8
+#EXTINF:-1 tvg-name="GNTV SPORTS 6HD" channel-id="6" tvg-logo="http://tvapi.giganet.iq/gntv/sport06.png",GNTV SPORTS 6HD
+http://stream.giganet.iq:6066/sport/ch6/adaptive.m3u8
+#EXTINF:-1 tvg-name="GNTV SPORTS 7HD" channel-id="7" tvg-logo="http://tvapi.giganet.iq/gntv/sport07.png",GNTV SPORTS 7HD
+http://stream.giganet.iq:6066/sport/ch7/adaptive.m3u8
+#EXTINF:-1 tvg-name="GNTV SPORTS 8HD" channel-id="8" tvg-logo="http://tvapi.giganet.iq/gntv/sport08.png",GNTV SPORTS 8HD
+http://stream.giganet.iq:6066/sport/ch8/adaptive.m3u8
+#EXTINF:-1 tvg-name="GNTV SPORTS 9HD" channel-id="9" tvg-logo="http://tvapi.giganet.iq/gntv/sport09.png",GNTV SPORTS 9HD
+http://stream.giganet.iq:6066/sport/ch9/adaptive.m3u8
+#EXTINF:-1 tvg-name="GNTV SPORTS 10HD" channel-id="10" tvg-logo="http://tvapi.giganet.iq/gntv/sport010.png",GNTV SPORTS 10HD
+http://stream.giganet.iq:6066/sport/ch10/adaptive.m3u8
+#EXTINF:-1 tvg-name="GNTV SPORTS 11HD" channel-id="11" tvg-logo="http://tvapi.giganet.iq/gntv/sport011.png",GNTV SPORTS 11HD
+http://stream.giganet.iq:6066/sport/ch11/adaptive.m3u8
+#EXTINF:-1 tvg-name="GNTV SPORTS 12HD" channel-id="12" tvg-logo="http://tvapi.giganet.iq/gntv/sport012.png",GNTV SPORTS 12HD
+http://stream.giganet.iq:6066/sport/ch12/adaptive.m3u8
+#EXTINF:-1 tvg-name="GNTV SPORTS 13HD" channel-id="13" tvg-logo="http://tvapi.giganet.iq/gntv/sport013.png",GNTV SPORTS 13HD
+http://stream.giganet.iq:6066/sport/ch13/adaptive.m3u8
+#EXTINF:-1 tvg-name="GNTV SPORTS 14HD" channel-id="14" tvg-logo="http://tvapi.giganet.iq/gntv/sport014.png",GNTV SPORTS 14HD
+http://stream.giganet.iq:6066/sport/ch14/adaptive.m3u8
+#EXTINF:-1 tvg-name="GNTV SPORTS 15HD" channel-id="15" tvg-logo="http://tvapi.giganet.iq/gntv/sport015.png",GNTV SPORTS 15HD
+http://stream.giganet.iq:6066/sport/ch15/adaptive.m3u8
+#EXTINF:-1 tvg-name="GNTV SPORTS 16HD" channel-id="16" tvg-logo="http://tvapi.giganet.iq/gntv/sport016.png",GNTV SPORTS 16HD
+http://stream.giganet.iq:6066/sport/ch16/adaptive.m3u8
+#EXTINF:-1 tvg-name="GNTV SPORTS 17HD" channel-id="17" tvg-logo="http://tvapi.giganet.iq/gntv/sport017.png",GNTV SPORTS 17HD
+http://stream.giganet.iq:6066/sport/ch17/adaptive.m3u8
+#EXTINF:-1 tvg-name="GNTV Entertainment 1HD" channel-id="18" tvg-logo="http://tvapi.giganet.iq/gntv/ent01.png",GNTV Entertainment 1HD
+http://stream.giganet.iq:6066/enter/ch1/adaptive.m3u8
+#EXTINF:-1 tvg-name="GNTV Entertainment 2HD" channel-id="19" tvg-logo="http://tvapi.giganet.iq/gntv/ent02.png",GNTV Entertainment 2HD
+http://stream.giganet.iq:6066/enter/ch2/adaptive.m3u8
+#EXTINF:-1 tvg-name="GNTV Entertainment 3HD" channel-id="20" tvg-logo="http://tvapi.giganet.iq/gntv/ent03.png",GNTV Entertainment 3HD
+http://stream.giganet.iq:6066/enter/ch3/adaptive.m3u8
+#EXTINF:-1 tvg-name="GNTV Entertainment 4HD" channel-id="21" tvg-logo="http://tvapi.giganet.iq/gntv/ent04.png",GNTV Entertainment 4HD
+http://stream.giganet.iq:6066/enter/ch4/adaptive.m3u8
+#EXTINF:-1 tvg-name="GNTV Entertainment 5HD" channel-id="22" tvg-logo="http://tvapi.giganet.iq/gntv/ent05.png",GNTV Entertainment 5HD
+http://stream.giganet.iq:6066/enter/ch5/adaptive.m3u8
+#EXTINF:-1 tvg-name="GNTV Entertainment 6HD" channel-id="23" tvg-logo="http://tvapi.giganet.iq/gntv/ent06.png",GNTV Entertainment 6HD
+http://stream.giganet.iq:6066/enter/ch6/adaptive.m3u8
+#EXTINF:-1 tvg-name="GNTV Entertainment 7HD" channel-id="24" tvg-logo="http://tvapi.giganet.iq/gntv/ent07.png",GNTV Entertainment 7HD
+http://stream.giganet.iq:6066/enter/ch7/adaptive.m3u8
+#EXTINF:-1 tvg-name="GNTV Entertainment 8HD" channel-id="25" tvg-logo="http://tvapi.giganet.iq/gntv/ent08.png",GNTV Entertainment 8HD
+http://stream.giganet.iq:6066/enter/ch8/adaptive.m3u8
+#EXTINF:-1 tvg-name="GNTV Entertainment 9HD" channel-id="26" tvg-logo="http://tvapi.giganet.iq/gntv/ent09.png",GNTV Entertainment 9HD
+http://stream.giganet.iq:6066/enter/ch9/adaptive.m3u8
+#EXTINF:-1 tvg-name="GNTV Entertainment 10HD" channel-id="27" tvg-logo="http://tvapi.giganet.iq/gntv/ent10.png",GNTV Entertainment 10HD
+http://stream.giganet.iq:6066/enter/ch10/adaptive.m3u8
+#EXTINF:-1 tvg-name="GNTV Entertainment 11HD" channel-id="28" tvg-logo="http://tvapi.giganet.iq/gntv/ent11.png",GNTV Entertainment 11HD
+http://stream.giganet.iq:6066/enter/ch11/adaptive.m3u8
+#EXTINF:-1 tvg-name="GNTV Entertainment 12HD" channel-id="29" tvg-logo="http://tvapi.giganet.iq/gntv/ent12.png",GNTV Entertainment 12HD
+http://stream.giganet.iq:6066/enter/ch12/adaptive.m3u8
+#EXTINF:-1 tvg-name="GNTV Entertainment 13HD" channel-id="30" tvg-logo="http://tvapi.giganet.iq/gntv/ent13.png",GNTV Entertainment 13HD
+http://stream.giganet.iq:6066/enter/ch13/adaptive.m3u8
+#EXTINF:-1 tvg-name="GNTV Entertainment 14HD" channel-id="31" tvg-logo="http://tvapi.giganet.iq/gntv/ent14.png",GNTV Entertainment 14HD
+http://stream.giganet.iq:6066/enter/ch14/adaptive.m3u8
+#EXTINF:-1 tvg-name="GNTV Entertainment 15HD" channel-id="32" tvg-logo="http://tvapi.giganet.iq/gntv/ent15.png",GNTV Entertainment 15HD
+http://stream.giganet.iq:6066/enter/ch15/adaptive.m3u8
+#EXTINF:-1 tvg-name="GNTV Entertainment 16HD" channel-id="33" tvg-logo="http://tvapi.giganet.iq/gntv/ent16.png",GNTV Entertainment 16HD
+http://stream.giganet.iq:6066/enter/ch16/adaptive.m3u8
+#EXTINF:-1 tvg-name="GNTV Entertainment 17HD" channel-id="34" tvg-logo="http://tvapi.giganet.iq/gntv/ent17.png",GNTV Entertainment 17HD
+http://stream.giganet.iq:6066/enter/ch17/adaptive.m3u8
+#EXTINF:-1 tvg-name="GNTV Entertainment 18HD" channel-id="35" tvg-logo="http://tvapi.giganet.iq/gntv/ent18.png",GNTV Entertainment 18HD
+http://stream.giganet.iq:6066/enter/ch18/adaptive.m3u8
+#EXTINF:-1 tvg-name="GNTV Entertainment 19HD" channel-id="36" tvg-logo="http://tvapi.giganet.iq/gntv/ent19.png",GNTV Entertainment 19HD
+http://stream.giganet.iq:6066/enter/ch19/adaptive.m3u8
+#EXTINF:-1 tvg-name="GNTV Entertainment 20HD" channel-id="37" tvg-logo="http://tvapi.giganet.iq/gntv/ent20.png",GNTV Entertainment 20HD
+http://stream.giganet.iq:6066/enter/ch20/adaptive.m3u8
+#EXTINF:-1 tvg-name="GNTV Entertainment 21HD" channel-id="38" tvg-logo="http://tvapi.giganet.iq/gntv/ent21.png",GNTV Entertainment 21HD
+http://stream.giganet.iq:6066/enter/ch21/adaptive.m3u8
+#EXTINF:-1 tvg-name="GNTV Entertainment 22HD" channel-id="38" tvg-logo="http://tvapi.giganet.iq/gntv/ent22.png",GNTV Entertainment 22HD
+http://stream.giganet.iq:6066/enter/ch22/adaptive.m3u8
+#EXTINF:-1 tvg-name="GNTV Entertainment 23HD" channel-id="39" tvg-logo="http://tvapi.giganet.iq/gntv/ent23.png",GNTV Entertainment 23HD
+http://stream.giganet.iq:6066/enter/ch23/adaptive.m3u8
+#EXTINF:-1 tvg-name="GNTV Entertainment 24HD" channel-id="40" tvg-logo="http://tvapi.giganet.iq/gntv/ent24.png",GNTV Entertainment 24HD
+http://stream.giganet.iq:6066/enter/ch24/adaptive.m3u8
+#EXTINF:-1 tvg-name="GNTV Entertainment 25HD" channel-id="41" tvg-logo="http://tvapi.giganet.iq/gntv/ent25.png",GNTV Entertainment 25HD
+http://stream.giganet.iq:6066/enter/ch25/adaptive.m3u8
+#EXTINF:-1 tvg-name="GNTV Entertainment 26HD" channel-id="42" tvg-logo="http://tvapi.giganet.iq/gntv/ent26.png",GNTV Entertainment 26HD
+http://stream.giganet.iq:6066/enter/ch26/adaptive.m3u8
+#EXTINF:-1 tvg-name="GNTV Entertainment 27HD" channel-id="43" tvg-logo="http://tvapi.giganet.iq/gntv/ent27.png",GNTV Entertainment 27HD
+http://stream.giganet.iq:6066/enter/ch27/adaptive.m3u8
+#EXTINF:-1 tvg-name="GNTV Entertainment 28HD" channel-id="44" tvg-logo="http://tvapi.giganet.iq/gntv/ent28.png",GNTV Entertainment 28HD
+http://stream.giganet.iq:6066/enter/ch28/adaptive.m3u8
+#EXTINF:-1 tvg-name="GNTV Entertainment 28HD" channel-id="45" tvg-logo="http://tvapi.giganet.iq/gntv/ent29.png",GNTV Entertainment 29HD
+http://stream.giganet.iq:6066/enter/ch29/adaptive.m3u8
+#EXTINF:-1 tvg-name="GNTV Entertainment 29HD" channel-id="46" tvg-logo="http://tvapi.giganet.iq/gntv/ent29.png",GNTV Entertainment 29HD
+http://stream.giganet.iq:6066/enter/ch29/adaptive.m3u8
+#EXTINF:-1 tvg-name="GNTV Entertainment 30HD" channel-id="47" tvg-logo="http://tvapi.giganet.iq/gntv/ent30.png",GNTV Entertainment 30HD
+http://stream.giganet.iq:6066/enter/ch30/adaptive.m3u8
+#EXTINF:-1 tvg-name="GNTV Movies 1HD" channel-id="48" tvg-logo="http://tvapi.giganet.iq/gntv/movies02.png",GNTV Movies 1HD
+http://stream.giganet.iq:6066/movies/ch1/adaptive.m3u8
+#EXTINF:-1 tvg-name="GNTV Movies 2HD" channel-id="49" tvg-logo="http://tvapi.giganet.iq/gntv/movies02.png",GNTV Movies 2HD
+http://stream.giganet.iq:6066/movies/ch2/adaptive.m3u8
+#EXTINF:-1 tvg-name="GNTV Movies 3HD" channel-id="50" tvg-logo="http://tvapi.giganet.iq/gntv/movies03.png",GNTV Movies 3HD
+http://stream.giganet.iq:6066/movies/ch3/adaptive.m3u8
+#EXTINF:-1 tvg-name="GNTV Movies 4HD" channel-id="51" tvg-logo="http://tvapi.giganet.iq/gntv/movies04.png",GNTV Movies 4HD
+http://stream.giganet.iq:6066/movies/ch4/adaptive.m3u8
+#EXTINF:-1 tvg-name="GNTV Movies 5HD" channel-id="52" tvg-logo="http://tvapi.giganet.iq/gntv/movies05.png",GNTV Movies 5HD
+http://stream.giganet.iq:6066/movies/ch5/adaptive.m3u8
+#EXTINF:-1 tvg-name="GNTV Movies 6HD" channel-id="53" tvg-logo="http://tvapi.giganet.iq/gntv/movies06.png",GNTV Movies 6HD
+http://stream.giganet.iq:6066/movies/ch6/adaptive.m3u8
+#EXTINF:-1 tvg-name="GNTV Movies 7HD" channel-id="54" tvg-logo="http://tvapi.giganet.iq/gntv/movies07.png",GNTV Movies 7HD
+http://stream.giganet.iq:6066/movies/ch7/adaptive.m3u8
+#EXTINF:-1 tvg-name="GNTV Movies 8HD" channel-id="55" tvg-logo="http://tvapi.giganet.iq/gntv/movies08.png",GNTV Movies 8HD
+http://stream.giganet.iq:6066/movies/ch8/adaptive.m3u8
+#EXTINF:-1 tvg-name="GNTV Movies 9HD" channel-id="56" tvg-logo="http://tvapi.giganet.iq/gntv/movies09.png",GNTV Movies 9HD
+http://stream.giganet.iq:6066/movies/ch9/adaptive.m3u8
+#EXTINF:-1 tvg-name="GNTV Movies 10HD" channel-id="57" tvg-logo="http://tvapi.giganet.iq/gntv/movies10.png",GNTV Movies 10HD
+http://stream.giganet.iq:6066/movies/ch10/adaptive.m3u8
+#EXTINF:-1 tvg-name="GNTV Movies 11HD" channel-id="58" tvg-logo="http://tvapi.giganet.iq/gntv/movies11.png",GNTV Movies 11HD
+http://stream.giganet.iq:6066/movies/ch11/adaptive.m3u8
+#EXTINF:-1 tvg-name="GNTV Movies 12HD" channel-id="59" tvg-logo="http://tvapi.giganet.iq/gntv/movies12.png",GNTV Movies 12HD
+http://stream.giganet.iq:6066/movies/ch12/adaptive.m3u8
+#EXTINF:-1 tvg-name="GNTV Movies 13HD" channel-id="60" tvg-logo="http://tvapi.giganet.iq/gntv/movies13.png",GNTV Movies 13HD
+http://stream.giganet.iq:6066/movies/ch13/adaptive.m3u8
+#EXTINF:-1 tvg-name="GNTV Movies 14HD" channel-id="61" tvg-logo="http://tvapi.giganet.iq/gntv/movies14.png",GNTV Movies 14HD
+http://stream.giganet.iq:6066/movies/ch14/adaptive.m3u8
+#EXTINF:-1 tvg-name="GNTV Movies 15HD" channel-id="62" tvg-logo="http://tvapi.giganet.iq/gntv/movies15.png",GNTV Movies 15HD
+http://stream.giganet.iq:6066/movies/ch15/adaptive.m3u8
+#EXTINF:-1 tvg-name="GNTV Movies 16HD" channel-id="63" tvg-logo="http://tvapi.giganet.iq/gntv/movies16.png",GNTV Movies 16HD
+http://stream.giganet.iq:6066/movies/ch16/adaptive.m3u8
+#EXTINF:-1 tvg-name="GNTV Movies 17HD" channel-id="64" tvg-logo="http://tvapi.giganet.iq/gntv/movies17.png",GNTV Movies 17HD
+http://stream.giganet.iq:6066/movies/ch17/adaptive.m3u8
+#EXTINF:-1 tvg-name="GNTV Movies 18HD" channel-id="65" tvg-logo="http://tvapi.giganet.iq/gntv/movies18.png",GNTV Movies 18HD
+http://stream.giganet.iq:6066/movies/ch18/adaptive.m3u8
+#EXTINF:-1 tvg-name="GNTV Movies 19HD" channel-id="66" tvg-logo="http://tvapi.giganet.iq/gntv/movies19.png",GNTV Movies 19HD
+http://stream.giganet.iq:6066/movies/ch19/adaptive.m3u8
+#EXTINF:-1 tvg-name="GNTV Movies 20HD" channel-id="67" tvg-logo="http://tvapi.giganet.iq/gntv/movies20.png",GNTV Movies 20HD
+http://stream.giganet.iq:6066/movies/ch20/adaptive.m3u8
+#EXTINF:-1 tvg-name="GNTV Movies 21HD" channel-id="69" tvg-logo="http://tvapi.giganet.iq/gntv/movies21.png",GNTV Movies 21HD
+http://stream.giganet.iq:6066/movies/ch21/adaptive.m3u8
+#EXTINF:-1 tvg-name="GNTV Movies 22HD" channel-id="70" tvg-logo="http://tvapi.giganet.iq/gntv/movies22.png",GNTV Movies 22HD
+http://stream.giganet.iq:6066/movies/ch22/adaptive.m3u8
+#EXTINF:-1 tvg-name="GNTV Movies 23HD" channel-id="71" tvg-logo="http://tvapi.giganet.iq/gntv/movies23.png",GNTV Movies 23HD
+http://stream.giganet.iq:6066/movies/ch23/adaptive.m3u8
+#EXTINF:-1 tvg-name="GNTV Movies 24HD" channel-id="72" tvg-logo="http://tvapi.giganet.iq/gntv/movies24.png",GNTV Movies 24HD
+http://stream.giganet.iq:6066/movies/ch24/adaptive.m3u8
+#EXTINF:-1 tvg-name="GNTV Movies 25HD" channel-id="75" tvg-logo="http://tvapi.giganet.iq/gntv/movies25.png",GNTV Movies 25HD
+http://stream.giganet.iq:6066/movies/ch25/adaptive.m3u8
+#EXTINF:-1 tvg-name="GNTV Movies 26HD" channel-id="76" tvg-logo="http://tvapi.giganet.iq/gntv/movies26.png",GNTV Movies 26HD
+http://stream.giganet.iq:6066/movies/ch26/adaptive.m3u8
+#EXTINF:-1 tvg-name="GNTV Movies 27HD" channel-id="77" tvg-logo="http://tvapi.giganet.iq/gntv/movies27.png",GNTV Movies 27HD
+http://stream.giganet.iq:6066/movies/ch27/adaptive.m3u8
+#EXTINF:-1 tvg-name="GNTV Movies 28HD" channel-id="78" tvg-logo="http://tvapi.giganet.iq/gntv/movies28.png",GNTV Movies 28HD
+http://stream.giganet.iq:6066/movies/ch28/adaptive.m3u8
+#EXTINF:-1 tvg-name="GNTV Series 1HD" channel-id="79" tvg-logo="http://tvapi.giganet.iq/gntv/series01.png",GNTV Series 1HD
+http://stream.giganet.iq:6066/series/ch1/adaptive.m3u8
+#EXTINF:-1 tvg-name="GNTV Series 2HD" channel-id="80" tvg-logo="http://tvapi.giganet.iq/gntv/series02.png",GNTV Series 2HD
+http://stream.giganet.iq:6066/series/ch2/adaptive.m3u8
+#EXTINF:-1 tvg-name="GNTV Series 3HD" channel-id="81" tvg-logo="http://tvapi.giganet.iq/gntv/series03.png",GNTV Series 3HD
+http://stream.giganet.iq:6066/series/ch3/adaptive.m3u8
+#EXTINF:-1 tvg-name="GNTV Series 4HD" channel-id="82" tvg-logo="http://tvapi.giganet.iq/gntv/series04.png",GNTV Series 4HD
+http://stream.giganet.iq:6066/series/ch4/adaptive.m3u8
+#EXTINF:-1 tvg-name="GNTV Series 5HD" channel-id="83" tvg-logo="http://tvapi.giganet.iq/gntv/series05.png",GNTV Series 5HD
+http://stream.giganet.iq:6066/series/ch5/adaptive.m3u8
+#EXTINF:-1 tvg-name="GNTV Series 6HD" channel-id="84" tvg-logo="http://tvapi.giganet.iq/gntv/series06.png",GNTV Series 6HD
+http://stream.giganet.iq:6066/series/ch6/adaptive.m3u8
+#EXTINF:-1 tvg-name="GNTV Series 7HD" channel-id="85" tvg-logo="http://tvapi.giganet.iq/gntv/series07.png",GNTV Series 7HD
+http://stream.giganet.iq:6066/series/ch7/adaptive.m3u8
+#EXTINF:-1 tvg-name="GNTV Series 8HD" channel-id="86" tvg-logo="http://tvapi.giganet.iq/gntv/series08.png",GNTV Series 8HD
+http://stream.giganet.iq:6066/series/ch8/adaptive.m3u8
+#EXTINF:-1 tvg-name="GNTV Series 9HD" channel-id="87" tvg-logo="http://tvapi.giganet.iq/gntv/series09.png",GNTV Series 9HD
+http://stream.giganet.iq:6066/series/ch9/adaptive.m3u8
+#EXTINF:-1 tvg-name="GNTV Series 10HD" channel-id="88" tvg-logo="http://tvapi.giganet.iq/gntv/series10.png",GNTV Series 10HD
+http://stream.giganet.iq:6066/series/ch10/adaptive.m3u8
+#EXTINF:-1 tvg-name="GNTV Series 11HD" channel-id="89" tvg-logo="http://tvapi.giganet.iq/gntv/series11.png",GNTV Series 11HD
+http://stream.giganet.iq:6066/series/ch11/adaptive.m3u8
+#EXTINF:-1 tvg-name="GNTV Series 12HD" channel-id="90" tvg-logo="http://tvapi.giganet.iq/gntv/series12.png",GNTV Series 12HD
+http://stream.giganet.iq:6066/series/ch12/adaptive.m3u8
+#EXTINF:-1 tvg-name="GNTV Series 13HD" channel-id="91" tvg-logo="http://tvapi.giganet.iq/gntv/series13.png",GNTV Series 13HD
+http://stream.giganet.iq:6066/series/ch13/adaptive.m3u8
+#EXTINF:-1 tvg-name="GNTV Kids 1HD" channel-id="92" tvg-logo="http://tvapi.giganet.iq/gntv/kids01.png",GNTV Kids 1HD
+http://stream.giganet.iq:6066/kids/ch1/adaptive.m3u8
+#EXTINF:-1 tvg-name="GNTV Kids 2HD" channel-id="93" tvg-logo="http://tvapi.giganet.iq/gntv/kids02.png",GNTV Kids 2HD
+http://stream.giganet.iq:6066/kids/ch2/adaptive.m3u8
+#EXTINF:-1 tvg-name="GNTV Kids 3HD" channel-id="94" tvg-logo="http://tvapi.giganet.iq/gntv/kids03.png",GNTV Kids 3HD
+http://stream.giganet.iq:6066/kids/ch3/adaptive.m3u8
+#EXTINF:-1 tvg-name="GNTV Kids 4HD" channel-id="95" tvg-logo="http://tvapi.giganet.iq/gntv/kids04.png",GNTV Kids 4HD
+http://stream.giganet.iq:6066/kids/ch4/adaptive.m3u8
+#EXTINF:-1 tvg-name="GNTV Kids 5HD" channel-id="96" tvg-logo="http://tvapi.giganet.iq/gntv/kids05.png",GNTV Kids 5HD
+http://stream.giganet.iq:6066/kids/ch5/adaptive.m3u8
+#EXTINF:-1 tvg-name="GNTV Kids 6HD" channel-id="97" tvg-logo="http://tvapi.giganet.iq/gntv/kids06.png",GNTV Kids 6HD
+http://stream.giganet.iq:6066/kids/ch6/adaptive.m3u8
+#EXTINF:-1 tvg-name="GNTV Kids 7HD" channel-id="98" tvg-logo="http://tvapi.giganet.iq/gntv/kids07.png",GNTV Kids 7HD
+http://stream.giganet.iq:6066/kids/ch7/adaptive.m3u8
+#EXTINF:-1 tvg-name="GNTV Kids 8HD" channel-id="99" tvg-logo="http://tvapi.giganet.iq/gntv/kids08.png",GNTV Kids 8HD
+http://stream.giganet.iq:6066/kids/ch8/adaptive.m3u8
