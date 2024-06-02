@@ -1,4 +1,3 @@
-127.0.0.1  fwtracks.freshmarketer.com
 127.0.0.1  widgets.pinterest.com
 127.0.0.1  realtime.luckyorange.com
 127.0.0.1  iq.opensooq.com
