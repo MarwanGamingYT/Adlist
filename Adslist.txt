@@ -11146,6 +11146,7 @@
 127.0.0.1	fv.oasfile.aftenposten.no
 127.0.0.1	fw.adsafeprotected.com
 127.0.0.1	fw.moatads.com
+127.0.0.1 fwtracks.freshmarketer.com
 127.0.0.1	fwbntw.com
 127.0.0.1	fwdservice.com
 127.0.0.1	www.fwdservice.com
