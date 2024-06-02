@@ -1,8 +1,8 @@
-0.0.0.0  fwtracks.freshmarketer.com
-0.0.0.0  widgets.pinterest.com
-0.0.0.0  realtime.luckyorange.com
-0.0.0.0  iq.opensooq.com
-0.0.0.0  samsung-com.112.2o7.net
+127.0.0.1  fwtracks.freshmarketer.com
+127.0.0.1  widgets.pinterest.com
+127.0.0.1  realtime.luckyorange.com
+127.0.0.1  iq.opensooq.com
+127.0.0.1  samsung-com.112.2o7.net
 
 #============ Ads =============
 
@@ -107,22 +107,14 @@
 # --- LinkedIn
 0.0.0.0 ads.linkedin.com
 0.0.0.0 analytics.pointdrive.linkedin.com
-
-# --- Pinterest
 0.0.0.0 ads.pinterest.com
 0.0.0.0 log.pinterest.com
 0.0.0.0 analytics.pinterest.com
 0.0.0.0 trk.pinterest.com
 0.0.0.0 widgets.pinterest.com
-
-# --- Reddit
 0.0.0.0 events.reddit.com
 0.0.0.0 events.redditmedia.com
-
-# --- YouTube
 0.0.0.0 ads.youtube.com
-
-# --- TikTok
 0.0.0.0 ads-api.tiktok.com
 0.0.0.0 analytics.tiktok.com
 0.0.0.0 ads-sg.tiktok.com
